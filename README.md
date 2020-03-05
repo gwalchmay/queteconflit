@@ -1,3 +1,4 @@
+REMOTE
 # queteconflit
 
 lorem ipsum tout ça tout ça...
