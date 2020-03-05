@@ -1,3 +1,4 @@
+LOCAL
 # queteconflit
 
 lorem ipsum tout ça tout ça...
